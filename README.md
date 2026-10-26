@@ -103,8 +103,8 @@ class HealthActuators:
 if __name__ == "__main__":
     patient_data = {
         'patient_id': 1237,
-        'name': 'Yogesh',
-        'age': 19
+        'name': 'subiksha ',
+        'age': 20
     }
 
     health_sensors = HealthSensors()
